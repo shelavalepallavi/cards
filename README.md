@@ -40,8 +40,4 @@ To run this project locally:
 1. Clone or download the repository.
 2. Open the `index.html` file in your browser.
 
----
 
-## 🎨 Icons
-
-Interactive icons used in this project are powered by [Font Awesome](https://fontawesome.com/). Make sure the CDN link is included in your HTML for them to render correctly.
